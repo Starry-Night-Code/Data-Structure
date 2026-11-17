@@ -236,8 +236,9 @@ bool BinTree<T>::isBalance(BinNodePosi x)
 } // 一次后序遍历，时间复杂度O(n)，递归栈空间O(h)
 
 
-
+/*
 int main()
 {
     return 0;
 }
+*/
